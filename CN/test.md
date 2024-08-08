@@ -10,3 +10,4 @@ let b = 39;
 var total = a + b;
 ```
 - The answer shoud be the sum of a and b.
+
